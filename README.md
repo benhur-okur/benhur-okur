@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benhur-okur" alt="benhur-okur" /></a> </p>
 
-- 🔭 I’m currently working on [WeatherApp](https://github.com/benhur-okur/Weather-App)
+- 🔭 I’m currently working on LLM Proxy Services
 
 - 👨‍💻 All of my projects are available at [https://benhur-okur.github.io/Personal-Website/](https://benhur-okur.github.io/Personal-Website/)
 
